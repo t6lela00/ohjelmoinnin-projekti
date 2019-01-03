@@ -1,2 +1,2 @@
 # ohjelmoinnin-projekti
-Ohjelmoinnin projektikurssi syksy 2016
+Ping Pong -peli Arduinolle. Peli piirretään ajuripiiriä käyttäen ledimatriisille ja pelaajan ohjaukset luetaan painonappeja käyttäen PISO-siirtorekisterin välityksellä.
